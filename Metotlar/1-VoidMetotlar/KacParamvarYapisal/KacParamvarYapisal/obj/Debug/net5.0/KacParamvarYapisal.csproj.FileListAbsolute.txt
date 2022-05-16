@@ -1,0 +1,16 @@
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.exe
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.deps.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.runtimeconfig.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.runtimeconfig.dev.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\ref\KacParamvarYapisal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\bin\Debug\net5.0\KacParamvarYapisal.pdb
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.csproj.AssemblyReference.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.AssemblyInfoInputs.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.AssemblyInfo.cs
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.csproj.CoreCompileInputs.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\ref\KacParamvarYapisal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.pdb
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KacParamvarYapisal\KacParamvarYapisal\obj\Debug\net5.0\KacParamvarYapisal.genruntimeconfig.cache

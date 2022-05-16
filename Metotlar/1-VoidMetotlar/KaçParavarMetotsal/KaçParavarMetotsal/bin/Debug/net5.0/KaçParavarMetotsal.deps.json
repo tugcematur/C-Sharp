@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KaçParavarMetotsal/1.0.0": {
+        "runtime": {
+          "KaçParavarMetotsal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KaçParavarMetotsal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

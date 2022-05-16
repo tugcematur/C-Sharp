@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaçParamVarIdeal", "KaçParamVarIdeal\KaçParamVarIdeal.csproj", "{B3FE4F29-C3D1-4105-9E71-3E84C1BE2F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FE4F29-C3D1-4105-9E71-3E84C1BE2F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FE4F29-C3D1-4105-9E71-3E84C1BE2F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FE4F29-C3D1-4105-9E71-3E84C1BE2F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FE4F29-C3D1-4105-9E71-3E84C1BE2F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89EFF8FA-8774-460C-99AE-7FB9E16D49DA}
+	EndGlobalSection
+EndGlobal

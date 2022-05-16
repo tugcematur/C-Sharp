@@ -1,0 +1,16 @@
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.exe
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.deps.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.runtimeconfig.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.runtimeconfig.dev.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\ref\KaçParamVarIdeal.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\bin\Debug\net5.0\KaçParamVarIdeal.pdb
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.csproj.AssemblyReference.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.AssemblyInfoInputs.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.AssemblyInfo.cs
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.csproj.CoreCompileInputs.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\ref\KaçParamVarIdeal.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.pdb
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\KaçParamVarIdeal\KaçParamVarIdeal\obj\Debug\net5.0\KaçParamVarIdeal.genruntimeconfig.cache

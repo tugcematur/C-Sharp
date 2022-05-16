@@ -1,0 +1,16 @@
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.exe
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.deps.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.runtimeconfig.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.runtimeconfig.dev.json
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\ref\HesapMakinası.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\bin\Debug\net5.0\HesapMakinası.pdb
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.csproj.AssemblyReference.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.AssemblyInfoInputs.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.AssemblyInfo.cs
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.csproj.CoreCompileInputs.cache
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\ref\HesapMakinası.dll
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.pdb
+C:\301Sabah\6-Metotlar\2-ReturnMetotlar\HesapMakinası\HesapMakinası\obj\Debug\net5.0\HesapMakinası.genruntimeconfig.cache

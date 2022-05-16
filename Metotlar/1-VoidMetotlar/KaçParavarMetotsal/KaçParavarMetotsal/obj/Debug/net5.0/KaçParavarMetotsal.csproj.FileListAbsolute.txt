@@ -1,0 +1,16 @@
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.exe
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.deps.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.runtimeconfig.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.runtimeconfig.dev.json
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\ref\KaçParavarMetotsal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\bin\Debug\net5.0\KaçParavarMetotsal.pdb
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.csproj.AssemblyReference.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.AssemblyInfoInputs.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.AssemblyInfo.cs
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.csproj.CoreCompileInputs.cache
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\ref\KaçParavarMetotsal.dll
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.pdb
+C:\301Sabah\6-Metotlar\1-VoidMetotlar\KaçParavarMetotsal\KaçParavarMetotsal\obj\Debug\net5.0\KaçParavarMetotsal.genruntimeconfig.cache
