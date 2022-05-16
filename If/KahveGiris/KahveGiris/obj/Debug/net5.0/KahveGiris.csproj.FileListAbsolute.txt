@@ -1,0 +1,16 @@
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.exe
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.deps.json
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.runtimeconfig.json
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.runtimeconfig.dev.json
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.dll
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\ref\KahveGiris.dll
+C:\301Sabah\4-If\KahveGiris\KahveGiris\bin\Debug\net5.0\KahveGiris.pdb
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.csproj.AssemblyReference.cache
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.AssemblyInfoInputs.cache
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.AssemblyInfo.cs
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.csproj.CoreCompileInputs.cache
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.dll
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\ref\KahveGiris.dll
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.pdb
+C:\301Sabah\4-If\KahveGiris\KahveGiris\obj\Debug\net5.0\KahveGiris.genruntimeconfig.cache
