@@ -1,0 +1,16 @@
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.exe
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.deps.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.runtimeconfig.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.runtimeconfig.dev.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\ref\Ozel.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\bin\Debug\net5.0\Ozel.pdb
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.csproj.AssemblyReference.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.AssemblyInfoInputs.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.AssemblyInfo.cs
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\ref\Ozel.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.pdb
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\Ozel\Ozel\obj\Debug\net5.0\Ozel.genruntimeconfig.cache

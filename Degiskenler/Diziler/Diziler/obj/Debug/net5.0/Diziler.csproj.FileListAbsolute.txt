@@ -1,0 +1,16 @@
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.exe
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.deps.json
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.json
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.dev.json
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.dll
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\ref\Diziler.dll
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\bin\Debug\net5.0\Diziler.pdb
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.csproj.AssemblyReference.cache
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfoInputs.cache
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfo.cs
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.dll
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\ref\Diziler.dll
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.pdb
+C:\301Sabah\1-Degiskenler\Diziler\Diziler\obj\Debug\net5.0\Diziler.genruntimeconfig.cache

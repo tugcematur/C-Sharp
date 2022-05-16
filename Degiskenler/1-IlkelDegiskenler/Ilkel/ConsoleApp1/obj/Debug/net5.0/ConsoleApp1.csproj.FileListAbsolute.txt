@@ -1,0 +1,16 @@
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\301Sabah\1-Degiskenler\1-IlkelDegiskenler\Ilkel\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

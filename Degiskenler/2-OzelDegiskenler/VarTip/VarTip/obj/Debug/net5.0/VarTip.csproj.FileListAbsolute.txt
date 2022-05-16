@@ -1,0 +1,16 @@
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.exe
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.deps.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.runtimeconfig.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.runtimeconfig.dev.json
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\ref\VarTip.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\bin\Debug\net5.0\VarTip.pdb
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.csproj.AssemblyReference.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.AssemblyInfoInputs.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.AssemblyInfo.cs
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\ref\VarTip.dll
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.pdb
+C:\301Sabah\1-Degiskenler\2-OzelDegiskenler\VarTip\VarTip\obj\Debug\net5.0\VarTip.genruntimeconfig.cache

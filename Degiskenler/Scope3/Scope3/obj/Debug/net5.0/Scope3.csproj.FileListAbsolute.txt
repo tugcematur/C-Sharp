@@ -1,0 +1,16 @@
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.exe
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.deps.json
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.runtimeconfig.json
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.runtimeconfig.dev.json
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.dll
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\ref\Scope3.dll
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\bin\Debug\net5.0\Scope3.pdb
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.csproj.AssemblyReference.cache
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.AssemblyInfoInputs.cache
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.AssemblyInfo.cs
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.dll
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\ref\Scope3.dll
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.pdb
+C:\301Sabah\1-Degiskenler\Scope3\Scope3\obj\Debug\net5.0\Scope3.genruntimeconfig.cache
