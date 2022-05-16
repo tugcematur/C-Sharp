@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQwz4ei9oW8GtMYZQo3rOWyIhd/3suqDwCTnKAy0spIzHk5K/Qk4IjbSw32c3SgbLL76vAw1/vvOsVD92Z04Yg==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\7-GenericDegiskenler\\Generic\\Generic\\Generic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
