@@ -1,0 +1,16 @@
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.exe
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.deps.json
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.runtimeconfig.json
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.runtimeconfig.dev.json
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.dll
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\ref\GunBulma.dll
+C:\301Sabah\5-Switch\GunBulma\GunBulma\bin\Debug\net5.0\GunBulma.pdb
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.csproj.AssemblyReference.cache
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.AssemblyInfoInputs.cache
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.AssemblyInfo.cs
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.csproj.CoreCompileInputs.cache
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.dll
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\ref\GunBulma.dll
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.pdb
+C:\301Sabah\5-Switch\GunBulma\GunBulma\obj\Debug\net5.0\GunBulma.genruntimeconfig.cache
