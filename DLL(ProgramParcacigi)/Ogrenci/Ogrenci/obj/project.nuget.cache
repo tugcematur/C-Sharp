@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMuxU8jTA/J4XvongGQx779ArqUaKvaiiTbeE6e/C9UZXbKumsNUopO3YUqBhED2R3byIphg1Z1ZML9XL3bIVQ==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\DLL(ProgramParcacigi)\\Ogrenci\\Ogrenci\\Ogrenci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

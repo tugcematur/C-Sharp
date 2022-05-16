@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7M9F3KJtYx6orkPXUbIqBBUp+z6MfijxcM0evZPCCS2xXCrSwjyuGxTQSXk6Bgq3pjWpbvqVjjnKtXEjwE6yKg==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\DLL(ProgramParcacigi)\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

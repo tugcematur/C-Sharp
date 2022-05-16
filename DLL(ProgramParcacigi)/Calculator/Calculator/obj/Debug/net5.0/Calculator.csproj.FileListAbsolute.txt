@@ -1,0 +1,12 @@
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\301Sabah\DLL(ProgramParcacigi)\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb

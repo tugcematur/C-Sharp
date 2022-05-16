@@ -1,0 +1,12 @@
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\bin\Debug\net5.0\FakeDatam.deps.json
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\bin\Debug\net5.0\FakeDatam.dll
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\bin\Debug\net5.0\ref\FakeDatam.dll
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\bin\Debug\net5.0\FakeDatam.pdb
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.csproj.AssemblyReference.cache
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.AssemblyInfoInputs.cache
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.AssemblyInfo.cs
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.csproj.CoreCompileInputs.cache
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.dll
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\ref\FakeDatam.dll
+C:\301Sabah\DLL(ProgramParcacigi)\FakeDatam\FakeDatam\obj\Debug\net5.0\FakeDatam.pdb
