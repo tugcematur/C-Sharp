@@ -1,0 +1,16 @@
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.exe
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.deps.json
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.json
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.dev.json
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.dll
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\ref\Donguler.dll
+C:\301Sabah\2-Donguler\Donguler\Donguler\bin\Debug\net5.0\Donguler.pdb
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.csproj.AssemblyReference.cache
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfoInputs.cache
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfo.cs
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.csproj.CoreCompileInputs.cache
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.dll
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\ref\Donguler.dll
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.pdb
+C:\301Sabah\2-Donguler\Donguler\Donguler\obj\Debug\net5.0\Donguler.genruntimeconfig.cache
