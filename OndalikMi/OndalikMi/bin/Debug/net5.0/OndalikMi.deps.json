@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OndalikMi/1.0.0": {
+        "runtime": {
+          "OndalikMi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OndalikMi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

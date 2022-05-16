@@ -1,0 +1,16 @@
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.exe
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.deps.json
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.runtimeconfig.json
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.runtimeconfig.dev.json
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.dll
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\ref\OndalikMi.dll
+C:\301Sabah\OndalikMi\OndalikMi\bin\Debug\net5.0\OndalikMi.pdb
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.csproj.AssemblyReference.cache
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.AssemblyInfoInputs.cache
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.AssemblyInfo.cs
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.csproj.CoreCompileInputs.cache
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.dll
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\ref\OndalikMi.dll
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.pdb
+C:\301Sabah\OndalikMi\OndalikMi\obj\Debug\net5.0\OndalikMi.genruntimeconfig.cache

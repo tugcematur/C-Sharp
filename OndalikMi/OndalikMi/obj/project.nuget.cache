@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tO1V0RBXxiO8rWuYOjJMeTvHeIBYCM5thAgvG6j1eCCjdKwGKi8/sVDH2Zf95Sr+TjGXPyiWUr8/hOmaRmu1JA==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\OndalikMi\\OndalikMi\\OndalikMi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
