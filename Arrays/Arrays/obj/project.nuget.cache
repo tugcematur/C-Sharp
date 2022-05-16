@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQNGZpgtIYkJ8DBZ6ar79OVYg6nsitzA49h8F6RXLnDEMzeDtQN8GwRPrRvwzJG/Y7LAxLLZJ3BwKht0vJSAuQ==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\Arrays\\Arrays\\Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
