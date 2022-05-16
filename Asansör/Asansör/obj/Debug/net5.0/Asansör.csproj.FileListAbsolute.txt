@@ -1,0 +1,32 @@
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.exe
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.deps.json
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.runtimeconfig.json
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.runtimeconfig.dev.json
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.dll
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\ref\Asansör.dll
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\bin\Debug\net5.0\Asansör.pdb
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.csproj.AssemblyReference.cache
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.AssemblyInfoInputs.cache
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.AssemblyInfo.cs
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.csproj.CoreCompileInputs.cache
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.dll
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\ref\Asansör.dll
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.pdb
+C:\Users\SC-301 2\Desktop\Asansör\Asansör\obj\Debug\net5.0\Asansör.genruntimeconfig.cache
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.exe
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.deps.json
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.runtimeconfig.json
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.runtimeconfig.dev.json
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.dll
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\ref\Asansör.dll
+C:\301Sabah\Asansör\Asansör\bin\Debug\net5.0\Asansör.pdb
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.csproj.AssemblyReference.cache
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.AssemblyInfoInputs.cache
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.AssemblyInfo.cs
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.csproj.CoreCompileInputs.cache
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.dll
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\ref\Asansör.dll
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.pdb
+C:\301Sabah\Asansör\Asansör\obj\Debug\net5.0\Asansör.genruntimeconfig.cache
