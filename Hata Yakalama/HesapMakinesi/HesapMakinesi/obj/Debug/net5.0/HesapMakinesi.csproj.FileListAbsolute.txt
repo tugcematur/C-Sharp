@@ -1,0 +1,16 @@
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.exe
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.deps.json
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.runtimeconfig.json
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.runtimeconfig.dev.json
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.dll
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\ref\HesapMakinesi.dll
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\bin\Debug\net5.0\HesapMakinesi.pdb
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.csproj.AssemblyReference.cache
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.AssemblyInfoInputs.cache
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.AssemblyInfo.cs
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.dll
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\ref\HesapMakinesi.dll
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.pdb
+C:\301Sabah\3-HataYakalama\HesapMakinesi\HesapMakinesi\obj\Debug\net5.0\HesapMakinesi.genruntimeconfig.cache
