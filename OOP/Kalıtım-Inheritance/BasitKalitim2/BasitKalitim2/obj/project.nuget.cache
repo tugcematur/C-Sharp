@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCTE5M7RMUB9fp/OD9YTmbsiuMdrldPii/7JXbOmV5raoCPqkhAuvZ58bjJmf45eXtuwQx4aRjQXMFqPEfXhVA==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\8-OOP\\Kalıtım-Inheritance\\BasitKalitim2\\BasitKalitim2\\BasitKalitim2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

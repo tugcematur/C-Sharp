@@ -1,0 +1,16 @@
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.exe
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.deps.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.runtimeconfig.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.runtimeconfig.dev.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\ref\BasitKalitim2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\bin\Debug\net5.0\BasitKalitim2.pdb
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.csproj.AssemblyReference.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.AssemblyInfoInputs.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.AssemblyInfo.cs
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\ref\BasitKalitim2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.pdb
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\BasitKalitim2\BasitKalitim2\obj\Debug\net5.0\BasitKalitim2.genruntimeconfig.cache

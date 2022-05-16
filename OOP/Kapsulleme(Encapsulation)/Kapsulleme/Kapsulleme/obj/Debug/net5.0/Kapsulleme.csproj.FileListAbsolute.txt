@@ -1,0 +1,16 @@
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.exe
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.deps.json
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.runtimeconfig.json
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.runtimeconfig.dev.json
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.dll
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\ref\Kapsulleme.dll
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\bin\Debug\net5.0\Kapsulleme.pdb
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.csproj.AssemblyReference.cache
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.AssemblyInfoInputs.cache
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.AssemblyInfo.cs
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.dll
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\ref\Kapsulleme.dll
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.pdb
+C:\301Sabah\8-OOP\Kapsulleme(Encapsulation)\Kapsulleme\Kapsulleme\obj\Debug\net5.0\Kapsulleme.genruntimeconfig.cache

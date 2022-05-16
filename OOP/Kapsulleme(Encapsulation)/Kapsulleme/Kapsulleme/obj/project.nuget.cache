@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPVrRm7IEFWrrAl4DsVB4vp5B7CsVG+h3+mrd2ZtKcmnNwC9F+D+jp2NTetRdN0e/zN08fUP43lpcVPSp6H81Q==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\8-OOP\\Kapsulleme(Encapsulation)\\Kapsulleme\\Kapsulleme\\Kapsulleme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

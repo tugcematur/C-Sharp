@@ -1,0 +1,10 @@
+﻿1. Class Seviyesi
+  a) Public olursa hem kendi projesinde hem de yardımcı projelerde kullanılabilir.
+  b) Boş veya Internal olursa: Sadece kendi projesinde erişilebilir. Yardımcı projeden erişilemez.
+2. Üye(property,Metot) Seviyesi
+  a) Public :  her yerden erişilebilir.
+  b) Private:   olursa hiçbir yerden erişilemez. Ancak aynı classın için de metot yazılarak veya Kapsülleme ile erişilebilir.
+     Miras aldığı sınıfta is metot içinden bile erişilemez.
+  c) Protected:   olursa  Ancak aynı classın için de metot yazılarak veya Kapsülleme ile erişilebilir.
+     Miras aldığı sınıfta is metot içinden bile erişilebilir.
+  d) Protected Internal:  hem internal hem protected.

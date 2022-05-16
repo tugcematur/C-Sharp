@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BasitKalitim2/1.0.0": {
+        "runtime": {
+          "BasitKalitim2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasitKalitim2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

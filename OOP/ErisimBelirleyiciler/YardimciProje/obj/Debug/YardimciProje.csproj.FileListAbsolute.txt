@@ -1,0 +1,11 @@
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\obj\Debug\YardimciProje.csproj.AssemblyReference.cache
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\obj\Debug\YardimciProje.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\YardimciProje.exe.config
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\YardimciProje.exe
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\YardimciProje.pdb
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\AnaProje.exe
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\AnaProje.pdb
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\bin\Debug\AnaProje.exe.config
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\obj\Debug\YardimciProje.csproj.CopyComplete
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\obj\Debug\YardimciProje.exe
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\YardimciProje\obj\Debug\YardimciProje.pdb

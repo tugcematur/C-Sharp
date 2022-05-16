@@ -1,0 +1,7 @@
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\bin\Debug\AnaProje.exe.config
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\bin\Debug\AnaProje.exe
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\bin\Debug\AnaProje.pdb
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\obj\Debug\AnaProje.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\obj\Debug\AnaProje.exe
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\obj\Debug\AnaProje.pdb
+C:\301Sabah\8-OOP\ErisimBelirleyiciler\AnaProje\obj\Debug\AnaProje.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lj66TOWNOp7GH0095V4Pj7SAGxL7BurtHwn8M+UcTxe2Wz0dnSgFbnxjilfKI6ZaufXLX35LzPcRiMyORtJdRw==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\8-OOP\\Siniflar\\Siniflar\\Siniflar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

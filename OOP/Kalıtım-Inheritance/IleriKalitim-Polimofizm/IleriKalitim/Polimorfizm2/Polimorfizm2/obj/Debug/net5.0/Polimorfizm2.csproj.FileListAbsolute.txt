@@ -1,0 +1,16 @@
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.exe
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.deps.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.runtimeconfig.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.runtimeconfig.dev.json
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\ref\Polimorfizm2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\bin\Debug\net5.0\Polimorfizm2.pdb
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.csproj.AssemblyReference.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.AssemblyInfoInputs.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.AssemblyInfo.cs
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\ref\Polimorfizm2.dll
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.pdb
+C:\301Sabah\8-OOP\Kalıtım-Inheritance\IleriKalitim-Polimofizm\IleriKalitim\Polimorfizm2\Polimorfizm2\obj\Debug\net5.0\Polimorfizm2.genruntimeconfig.cache

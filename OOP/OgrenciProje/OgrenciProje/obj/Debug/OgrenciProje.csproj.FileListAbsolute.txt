@@ -1,0 +1,10 @@
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\bin\Debug\FakeData.dll
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\bin\Debug\FakeData.pdb
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CopyComplete
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\301Sabah\8-OOP\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb

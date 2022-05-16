@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PURHozJaAnjLioMR5vG1tiPTR6bmUSblekSnZpYpdJ57lLpx20DNZq6F1GdJp562y751P5mI1NI9yElf+YDzgQ==",
+  "success": true,
+  "projectFilePath": "C:\\301Sabah\\8-OOP\\Kalıtım-Inheritance\\IleriKalitim\\IleriKalitim\\IleriKalitim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SC-301 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
