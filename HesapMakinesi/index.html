@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+        .yazi {
+            color: white;
+            border-radius: 55px 55px;
+            padding: 19px;
+            text-align: center;
+            width: 20px;
+            height: 20px;
+            width: 20%;
+
+
+        }
+
+        .tus1 {
+
+            background-color: chocolate;
+
+
+        }
+
+        .tus2 {
+            background-color: gray;
+
+        }
+
+        .tus3 {
+            background-color: #363636;
+
+        }
+
+        div {
+            background-color: black;
+            border: 2px solid black;
+            padding: 10px;
+            border-radius: 25px;
+            margin-right: 1098px
+        }
+
+        .display {
+            background-color: #454140;
+            color: white;
+            font-weight: bold;
+            font-size: 13px
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Calculator</h1>
+
+
+    <div>
+
+        <form>
+            <input id="sayi" type="text" name="display" style="padding:26px " class="display" onclick="engelle()" placeholder="">
+            
+            <br><br>
+            <input type="button" value="C" class="tus2 yazi" onclick="clr()">
+            <input type="button" value=" √"  class="tus2 yazi" onclick=" doMath('√')">
+            <input type="button" value="%" class="tus2 yazi" onclick="dis('%') ">
+            <input type="button" value="/" class="tus1 yazi" onclick="dis('/') ">
+            <br><br>
+            <input type="button" value="7" class="tus3 yazi" onclick="dis('7') ">
+            <input type="button" value="8" class="tus3 yazi" onclick="dis('8') ">
+            <input type="button" value="9" class="tus3 yazi" onclick="dis('9') ">
+            <input type="button" value="x" class="tus1 yazi" onclick="dis('*')">
+            <br><br>
+            <input type="button" value="4" class="tus3 yazi" onclick="dis('4')  ">
+            <input type="button" value="5" class="tus3 yazi" onclick="dis('5') ">
+            <input type="button" value="6" class="tus3 yazi" onclick="dis('6') ">
+            <input type="button" value="-" class="tus1 yazi" onclick="dis('-')">
+            <br><br>
+            <input type="button" value="1" class="tus3 yazi" onclick="dis('1' ) ">
+            <input type="button" value="2" class="tus3 yazi" onclick="dis('2') ">
+            <input type="button" value="3" class="tus3 yazi" onclick="dis('3')  ">
+            <input type="button" value="+" class="tus1 yazi" onclick="dis('+')  ">
+            <br><br>
+            <input type="button" value="0" style="width:43%" class="tus3 yazi" onclick="dis('0')  ">
+            <input type="button" value="." class="tus3 yazi" onclick=" dis('.')">
+            <input type="button" value="=" class="tus1 yazi" onclick="solve()">
+    </div>
+    </form>
+    
+</body>
+
+</html>
+<script src="app.js"></script>
