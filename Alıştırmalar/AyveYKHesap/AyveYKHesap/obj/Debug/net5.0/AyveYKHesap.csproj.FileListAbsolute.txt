@@ -1,0 +1,16 @@
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.exe
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.deps.json
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.runtimeconfig.json
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.runtimeconfig.dev.json
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.dll
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\ref\AyveYKHesap.dll
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\bin\Debug\net5.0\AyveYKHesap.pdb
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.csproj.AssemblyReference.cache
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.AssemblyInfoInputs.cache
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.AssemblyInfo.cs
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.csproj.CoreCompileInputs.cache
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.dll
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\ref\AyveYKHesap.dll
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.pdb
+C:\301Sabah\Alıştırmalar\AyveYKHesap\AyveYKHesap\obj\Debug\net5.0\AyveYKHesap.genruntimeconfig.cache
