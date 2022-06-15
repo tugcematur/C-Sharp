@@ -1,0 +1,11 @@
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\bin\Debug\ŞampiyonlarLigi.exe.config
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\bin\Debug\ŞampiyonlarLigi.exe
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\bin\Debug\ŞampiyonlarLigi.pdb
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.csproj.AssemblyReference.cache
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.Form1.resources
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.Properties.Resources.resources
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.csproj.GenerateResource.cache
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.csproj.CoreCompileInputs.cache
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.exe
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.pdb
+C:\Users\tugce_s5kla9\OneDrive\Masaüstü\ŞampiyonlarLigi\ŞampiyonlarLigi\obj\Debug\ŞampiyonlarLigi.Form3.resources
