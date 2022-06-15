@@ -13,12 +13,6 @@ namespace ŞampiyonlarLigi
 
         public int [] scores = new int[6];
 
-        public List<DateTime> dates;
-
-        public Takim()
-        {
-
-        }
 
 
         public Takim(string name, string country)
